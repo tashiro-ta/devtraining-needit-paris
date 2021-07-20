@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description>問い合わせテスト</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="カテゴリアイテム">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 02:24:33</sys_created_on>
+        <sys_id>50fce5bf1b113010786199f7b04bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>問い合わせテスト</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_category_50fce5bf1b113010786199f7b04bcb1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 02:24:33</sys_updated_on>
+        <title>問い合わせテスト</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=50fce5bf1b113010786199f7b04bcb1f"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>50fce5bf1b113010786199f7b04bcb1f</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 02:24:33</sys_created_on>
+        <sys_id>5a2de9bf1b113010786199f7b04bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 02:24:33</sys_updated_on>
+        <tablename>sc_category</tablename>
+        <value>問い合わせテスト</value>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>50fce5bf1b113010786199f7b04bcb1f</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 02:24:33</sys_created_on>
+        <sys_id>d22de9bf1b113010786199f7b04bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 02:24:33</sys_updated_on>
+        <tablename>sc_category</tablename>
+        <value>問い合わせテスト</value>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a13ae78edb48bc10601a11f8489619af</instance_id>
+        <instance_name>dev115695</instance_name>
+        <name>sc_category_50fce5bf1b113010786199f7b04bcb1f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description>問い合わせテスト</description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="カテゴリアイテム">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-19 02:24:33</sys_created_on><sys_id>50fce5bf1b113010786199f7b04bcb1f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>問い合わせテスト</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_category_50fce5bf1b113010786199f7b04bcb1f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-19 02:24:33</sys_updated_on><title>問い合わせテスト</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=50fce5bf1b113010786199f7b04bcb1f"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>50fce5bf1b113010786199f7b04bcb1f</documentkey><fieldname>description</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-19 02:24:33</sys_created_on><sys_id>5a2de9bf1b113010786199f7b04bcb32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-19 02:24:33</sys_updated_on><tablename>sc_category</tablename><value>問い合わせテスト</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>50fce5bf1b113010786199f7b04bcb1f</documentkey><fieldname>title</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-19 02:24:33</sys_created_on><sys_id>d22de9bf1b113010786199f7b04bcb35</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-19 02:24:33</sys_updated_on><tablename>sc_category</tablename><value>問い合わせテスト</value></sys_translated_text></record_update>]]></payload>
+        <payload_hash>1845785274</payload_hash>
+        <record_name>問い合わせテスト</record_name>
+        <reverted_from/>
+        <source>f5fe0abe1b113010786199f7b04bcbc2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 02:24:33</sys_created_on>
+        <sys_id>562de9bf1b113010786199f7b04bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17abc944ced0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 02:24:33</sys_updated_on>
+        <type>Category</type>
+        <update_guid>9e2de9bffb1130100ce6819007951b36</update_guid>
+        <update_guid_history>9e2de9bffb1130100ce6819007951b36:1845785274,5a2de9bfff11301062c802d5a69d0a34:1374299178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="問い合わせテスト">a69e6dff1b113010786199f7b04bcb59</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 02:30:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>07e225c28e454dce810b63d3cf6a1924</sys_id>
+        <sys_metadata>50fce5bf1b113010786199f7b04bcb1f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>問い合わせテスト</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_category_50fce5bf1b113010786199f7b04bcb1f</sys_update_name>
+        <sys_update_version display_value="sc_category_50fce5bf1b113010786199f7b04bcb1f">562de9bf1b113010786199f7b04bcb37</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 02:30:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
